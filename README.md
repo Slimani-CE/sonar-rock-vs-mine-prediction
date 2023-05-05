@@ -31,3 +31,11 @@ The dataset is preprocessed as follows:
 The Logistic Regression algorithm is used to train the model on the training dataset, and the accuracy of the model is evaluated on the test dataset.
 
 The final accuracy scores achieved on the training and test datasets are displayed.
+
+## Contributing
+Contributions are always welcome! If you find any issues with the code or have suggestions for improvements, please feel free to submit a pull request.
+
+Just remember, we are not responsible for any broken keyboards or late night coding sessions that may result from your contributions! 😄
+
+## Show Your Support
+If you found this notebook helpful, please give it a ⭐️ to show your support!
